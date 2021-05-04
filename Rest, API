@@ -1,0 +1,13 @@
+REST, API JSON
+
+Rest: Representational Stats Transfer
+É um estilo de arquitetura de software que define como servição web's vão se implementados.
+
+Rest trabalha pode trabalha com formatos XML, JSON ou atras linguagens de marcação
+
+Vantagens do REST: 
+* Permite integração entre aplicações e também entre cliente(usuarios) e servidor em paginas  web e aplicações. 
+* Utiliza o protocolo HTTP
+* Arquitetura de fácil compreensão
+
+API: Aplication Programming Iterface
