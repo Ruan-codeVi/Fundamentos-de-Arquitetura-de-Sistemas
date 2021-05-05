@@ -1,7 +1,14 @@
+SOAP: SImple Object Acess Protocol (Protocolo simples de acessp ap objeto)
+* É Baseado em XML para acessar serviço web principalmente por HTTP 
+
+
+
+
 REST, API JSON
 
 Rest: Representational Stats Transfer
 É um estilo de arquitetura de software que define como servição web's vão se implementados.
+
 
 Rest trabalha pode trabalha com formatos XML, JSON ou atras linguagens de marcação
 
