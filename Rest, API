@@ -1,6 +1,12 @@
 SOAP: SImple Object Acess Protocol (Protocolo simples de acessp ap objeto)
 * É Baseado em XML para acessar serviço web principalmente por HTTP 
-
+* Pode-se se dizer que SOAP é uma definição de como serviços web vão se comunicar
+* Foi desenvolvido para facilitar integrações entre aplicações
+* Funciona por TAG e VAlOR
+ESTRUTURA SOAP É UNICA
+SOAP Envelope
+SOAP Header
+SOAP Body
 
 
 
